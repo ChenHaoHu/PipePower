@@ -1,0 +1,68 @@
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\BLL\bin\Debug\BLL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\BLL\bin\Debug\BLL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\BLL\obj\Debug\BLL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\BLL\obj\Debug\BLL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\BLL\bin\Debug\BLL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\BLL\bin\Debug\BLL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\BLL\bin\Debug\DAL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\BLL\bin\Debug\Model.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\BLL\bin\Debug\DAL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\BLL\bin\Debug\Model.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\BLL\obj\Debug\BLL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\BLL\obj\Debug\BLL.pdb
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\bin\Debug\BLL.dll
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\bin\Debug\BLL.pdb
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\bin\Debug\DAL.dll
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\bin\Debug\Model.dll
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\bin\Debug\DAL.pdb
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\bin\Debug\Model.pdb
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\obj\Debug\BLL.csproj.CopyComplete
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\obj\Debug\BLL.dll
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\obj\Debug\BLL.pdb
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\bin\Debug\BLL.dll
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\bin\Debug\BLL.pdb
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\bin\Debug\DAL.dll
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\bin\Debug\Model.dll
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\bin\Debug\DAL.pdb
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\bin\Debug\Model.pdb
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\obj\Debug\BLL.dll
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\BLL\obj\Debug\BLL.pdb
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\BLL\obj\Debug\BLL.csprojAssemblyReference.cache
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\BLL\obj\Debug\BLL.dll
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\BLL\obj\Debug\BLL.pdb
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\BLL\bin\Debug\BLL.dll
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\BLL\bin\Debug\BLL.pdb
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\BLL\bin\Debug\DAL.dll
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\BLL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\BLL\bin\Debug\Model.dll
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\BLL\bin\Debug\DAL.pdb
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\BLL\bin\Debug\Model.pdb
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\BLL\bin\Debug\BLL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\BLL\bin\Debug\BLL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\BLL\bin\Debug\DAL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\BLL\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\BLL\bin\Debug\Model.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\BLL\bin\Debug\DAL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\BLL\bin\Debug\Model.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\BLL\obj\Debug\BLL.csproj.ResolveComReference.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\BLL\obj\Debug\BLL.csproj.CopyComplete
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\BLL\obj\Debug\BLL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\BLL\obj\Debug\BLL.pdb

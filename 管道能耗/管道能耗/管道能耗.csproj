@@ -1,0 +1,390 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{A4225414-C24A-439E-8183-739C60AA4733}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>管道能耗</RootNamespace>
+    <AssemblyName>管道能耗</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>logo.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\..\Program Files (x86)\Microsoft Visual Studio\Shared\Visual Studio Tools for Office\PIA\Office15\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Office.Interop.Word, Version=15.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\..\..\Downloads\WpfXPSViewer\word\Microsoft.Office.Interop.Word.dll</HintPath>
+    </Reference>
+    <Reference Include="ReachFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="WPFVisifire.Charts, Version=5.1.3.0, Culture=neutral, PublicKeyToken=0cd785983078370b, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>bin\Debug\WPFVisifire.Charts.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="HelpFile\App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="AboutUs.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="AddNewFile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\dataoprate\Oth_Add.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\dataoprate\Oth_Edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\dataoprate\Phy_Add.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\dataoprate\Phy_Edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\dataoprate\PiP_Add.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\dataoprate\PiP_Edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\dataoprate\Pum_Add.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\dataoprate\Pum_Edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\dataoprate\Soil_Add.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\dataoprate\Soil_Edit.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\data\OthersData.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\data\PhysicalProperty.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CardPages\data\PipelineBasic.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CardPages\data\PumpParameters.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CardPages\data\SoilAmbient.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CardPages\operation\Wateranalyze.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CardPages\operation\Wipeanalyze.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CardPages\programme\Cyclicnum.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CardPages\programme\Energycalcu.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CardPages\programme\PumpOpen.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\programme\MixedOilCutting.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\programme\MixedOilNum.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="CardPages\programme\PumpSet.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="CardPages\shouye.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="EditFile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="FileShow.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="HelpFile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="AboutUs.xaml.cs">
+      <DependentUpon>AboutUs.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="AddNewFile.xaml.cs">
+      <DependentUpon>AddNewFile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\dataoprate\Oth_Add.xaml.cs">
+      <DependentUpon>Oth_Add.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\dataoprate\Oth_Edit.xaml.cs">
+      <DependentUpon>Oth_Edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\dataoprate\Phy_Add.xaml.cs">
+      <DependentUpon>Phy_Add.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\dataoprate\Phy_Edit.xaml.cs">
+      <DependentUpon>Phy_Edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\dataoprate\PiP_Add.xaml.cs">
+      <DependentUpon>PiP_Add.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\dataoprate\PiP_Edit.xaml.cs">
+      <DependentUpon>PiP_Edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\dataoprate\Pum_Add.xaml.cs">
+      <DependentUpon>Pum_Add.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\dataoprate\Pum_Edit.xaml.cs">
+      <DependentUpon>Pum_Edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\dataoprate\Soil_Add.xaml.cs">
+      <DependentUpon>Soil_Add.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\dataoprate\Soil_Edit.xaml.cs">
+      <DependentUpon>Soil_Edit.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\data\OthersData.xaml.cs">
+      <DependentUpon>OthersData.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\programme\PumpOpen.xaml.cs">
+      <DependentUpon>PumpOpen.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\programme\MixedOilCutting.xaml.cs">
+      <DependentUpon>MixedOilCutting.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\programme\PumpSet.xaml.cs">
+      <DependentUpon>PumpSet.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="EditFile.xaml.cs">
+      <DependentUpon>EditFile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="FileShow.xaml.cs">
+      <DependentUpon>FileShow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HelpFile\App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="CardPages\data\PhysicalProperty.xaml.cs">
+      <DependentUpon>PhysicalProperty.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\data\PipelineBasic.xaml.cs">
+      <DependentUpon>PipelineBasic.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\data\PumpParameters.xaml.cs">
+      <DependentUpon>PumpParameters.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\data\SoilAmbient.xaml.cs">
+      <DependentUpon>SoilAmbient.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\operation\Wateranalyze.xaml.cs">
+      <DependentUpon>Wateranalyze.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\operation\Wipeanalyze.xaml.cs">
+      <DependentUpon>Wipeanalyze.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\programme\Cyclicnum.xaml.cs">
+      <DependentUpon>Cyclicnum.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\programme\Energycalcu.xaml.cs">
+      <DependentUpon>Energycalcu.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\programme\MixedOilNum.xaml.cs">
+      <DependentUpon>MixedOilNum.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="CardPages\shouye.xaml.cs">
+      <DependentUpon>shouye.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="HelpFile.xaml.cs">
+      <DependentUpon>HelpFile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Page Include="OpenFile.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="OpenFile.xaml.cs">
+      <DependentUpon>OpenFile.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IconImages\add.png" />
+    <Resource Include="IconImages\backout.png" />
+    <Resource Include="IconImages\close.png" />
+    <Resource Include="IconImages\delect.png" />
+    <Resource Include="IconImages\exit.png" />
+    <Resource Include="IconImages\finall.png" />
+    <Resource Include="IconImages\first.png" />
+    <Resource Include="IconImages\help.png" />
+    <Resource Include="IconImages\next.png" />
+    <Resource Include="IconImages\open.png" />
+    <Resource Include="IconImages\osave.png" />
+    <Resource Include="IconImages\renew.png" />
+    <Resource Include="IconImages\save.png" />
+    <Resource Include="IconImages\stop.png" />
+    <Resource Include="IconImages\toolsadd.png" />
+    <Resource Include="IconImages\top.png" />
+    <Resource Include="IconImages\文件夹.png" />
+    <Resource Include="Images\background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Images\math.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CardPages\help\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BLL\BLL.csproj">
+      <Project>{8f0b87a9-ae30-4516-b2c1-c74f9eec4a80}</Project>
+      <Name>BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DAL\DAL.csproj">
+      <Project>{0897caf6-7037-4f18-9a4c-d154baa3718a}</Project>
+      <Name>DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Model\Model.csproj">
+      <Project>{35D9EE48-D274-459E-B83C-8EE4F936BDA0}</Project>
+      <Name>Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IconImages\edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="IconImages\export.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

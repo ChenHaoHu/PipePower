@@ -1,0 +1,1291 @@
+D:\Workspaces\vs2017\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+D:\Workspaces\vs2017\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+D:\Workspaces\vs2017\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\App.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\管道能耗.csprojAssemblyReference.cache
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\help\Aboutus.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\help\Helpfile.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.baml
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\help\Aboutus.baml
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\help\Helpfile.baml
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.baml
+D:\Workspaces\vs2017\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csprojResolveAssemblyReference.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\App.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\bin\Debug\DAL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\bin\Debug\DAL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\孙3——管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\bin\Debug\DAL.dll
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\bin\Debug\DAL.pdb
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\管道能耗.csprojAssemblyReference.cache
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\App.g.cs
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+C:\Users\SYR\Desktop\管道能耗  添加帮助文件\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\bin\Debug\DAL.dll
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\bin\Debug\DAL.pdb
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csprojAssemblyReference.cache
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.g.cs
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+C:\Users\SYR\Desktop\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\bin\Debug\DAL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\bin\Debug\Model.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\bin\Debug\DAL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\bin\Debug\Model.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csprojResolveAssemblyReference.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\bin\Debug\BLL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\bin\Debug\BLL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\OpenFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\4——管道能耗\管道能耗\管道能耗\管道能耗\obj\Debug\OpenFile.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\bin\Debug\BLL.dll
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\bin\Debug\DAL.dll
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\bin\Debug\Model.dll
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\bin\Debug\BLL.pdb
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\bin\Debug\DAL.pdb
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\bin\Debug\Model.pdb
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csprojAssemblyReference.cache
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\OpenFile.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\OpenFile.baml
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+C:\Users\SYR\Desktop\管道能耗 需要导入数据库文件  实现部分查库 和文件创建功能\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\bin\Debug\BLL.dll
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\bin\Debug\DAL.dll
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\bin\Debug\Model.dll
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\bin\Debug\BLL.pdb
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\bin\Debug\DAL.pdb
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\bin\Debug\Model.pdb
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csprojAssemblyReference.cache
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\OpenFile.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\OpenFile.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.g.cs
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.baml
+C:\Users\SYR\Desktop\管道能耗16.07.10.20点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\bin\Debug\BLL.dll
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\bin\Debug\DAL.dll
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\bin\Debug\Model.dll
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\bin\Debug\BLL.pdb
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\bin\Debug\DAL.pdb
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\bin\Debug\Model.pdb
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csprojResolveAssemblyReference.cache
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\OpenFile.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\OpenFile.baml
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+F:\QQData\775656764\FileRecv\管道能耗16.07.10.23点\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csprojResolveAssemblyReference.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\OpenFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\bin\Debug\BLL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\bin\Debug\DAL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\bin\Debug\Model.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\bin\Debug\BLL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\bin\Debug\DAL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\bin\Debug\Model.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbientTemp.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\OpenFile.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807102320\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\bin\Debug\BLL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\bin\Debug\DAL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\bin\Debug\Model.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\bin\Debug\BLL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\bin\Debug\DAL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\bin\Debug\Model.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csprojResolveAssemblyReference.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\OpenFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\programme\Pumpproject.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\OpenFile.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\EditFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\EditFile.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\FileShow.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\obj\Debug\FileShow.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\201807110930\管道能耗\管道能耗\管道能耗\bin\Debug\stdole.dll
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\BLL.dll
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\DAL.dll
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\Model.dll
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\office.dll
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\Microsoft.Vbe.Interop.dll
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\stdole.dll
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\BLL.pdb
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\DAL.pdb
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\Model.pdb
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\Microsoft.Office.Interop.Excel.xml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\bin\Debug\office.xml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\管道能耗.csprojAssemblyReference.cache
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\EditFile.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\FileShow.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\OpenFile.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\EditFile.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\FileShow.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\OpenFile.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\programme\FirstOpen.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\programme\FirstOpen.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.baml
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.g.cs
+C:\Users\SYR\Desktop\管道能耗 201807121534\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\BLL.dll
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\DAL.dll
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\Model.dll
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\office.dll
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\stdole.dll
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\BLL.pdb
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\DAL.pdb
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\Model.pdb
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\office.xml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.csprojAssemblyReference.cache
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\FirstOpen.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\EditFile.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\FileShow.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\OpenFile.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\FirstOpen.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\EditFile.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\FileShow.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\OpenFile.baml
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+D:\D盘桌面文件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\BLL.dll
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\DAL.dll
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\Model.dll
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\office.dll
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\stdole.dll
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\BLL.pdb
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\DAL.pdb
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\Model.pdb
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\office.xml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.csprojAssemblyReference.cache
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\FirstOpen.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\EditFile.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\FileShow.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\OpenFile.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\FirstOpen.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOil.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\ProgrammeTop.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\EditFile.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\FileShow.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\OpenFile.baml
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+D:\D盘桌面文件\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\BLL.dll
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\DAL.dll
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\Model.dll
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\stdole.dll
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\BLL.pdb
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\DAL.pdb
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\bin\Debug\Model.pdb
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.csprojAssemblyReference.cache
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\EditFile.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\FileShow.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\OpenFile.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\EditFile.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\FileShow.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\OpenFile.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpOpen.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilCutting.g.cs
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpOpen.baml
+C:\Users\院长\Desktop\胡晨阳\改 管道能耗 修改界面 添加数据检验\管道能耗 修改界面 添加数据检验\管道能耗 修改界面 所有按钮对应相关事件\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilCutting.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\bin\Debug\BLL.dll
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\bin\Debug\DAL.dll
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\bin\Debug\Model.dll
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\bin\Debug\BLL.pdb
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\bin\Debug\DAL.pdb
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\bin\Debug\Model.pdb
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csprojAssemblyReference.cache
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpOpen.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilCutting.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\EditFile.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\FileShow.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\OpenFile.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpOpen.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilCutting.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\EditFile.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\FileShow.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\OpenFile.baml
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\SYR\Desktop\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.ResolveComReference.cache
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\bin\Debug\BLL.dll
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\bin\Debug\DAL.dll
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\bin\Debug\Model.dll
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\bin\Debug\BLL.pdb
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\bin\Debug\DAL.pdb
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\bin\Debug\Model.pdb
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csprojAssemblyReference.cache
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.ResolveComReference.cache
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpOpen.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilCutting.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\EditFile.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\FileShow.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\OpenFile.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpOpen.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilCutting.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\EditFile.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\FileShow.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\OpenFile.baml
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+C:\Users\院长\Documents\Tencent Files\775656764\FileRecv\201807202306  写文档\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\bin\Debug\BLL.dll
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\bin\Debug\DAL.dll
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\bin\Debug\Model.dll
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\bin\Debug\BLL.pdb
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\bin\Debug\DAL.pdb
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\bin\Debug\Model.pdb
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csprojAssemblyReference.cache
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.ResolveComReference.cache
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpOpen.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilCutting.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\EditFile.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\FileShow.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\OpenFile.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpOpen.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilCutting.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\EditFile.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\FileShow.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\OpenFile.baml
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.pdb
+C:\Users\院长\Desktop\胡晨阳\201807202306  写文档\管道能耗\管道能耗\obj\Debug\管道能耗.exe.config
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\bin\Debug\管道能耗.exe.config
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\bin\Debug\管道能耗.exe
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\bin\Debug\管道能耗.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\bin\Debug\BLL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\bin\Debug\DAL.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\bin\Debug\Model.dll
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\bin\Debug\BLL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\bin\Debug\DAL.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\bin\Debug\Model.pdb
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\管道能耗.csprojResolveAssemblyReference.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\管道能耗.exe.config
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.ResolveComReference.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\HelpFile.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\AboutUs.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\AddNewFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpOpen.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilCutting.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\shouye.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\EditFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\FileShow.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\HelpFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\MainWindow.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\OpenFile.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\HelpFile\App.g.cs
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\管道能耗_MarkupCompile.lref
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\AboutUs.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\AddNewFile.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Oth_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Phy_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\PiP_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Pum_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Add.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\dataoprate\Soil_Edit.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\data\OthersData.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\data\PhysicalProperty.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\data\PipelineBasic.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\data\PumpParameters.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\data\SoilAmbient.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wateranalyze.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\operation\Wipeanalyze.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\programme\Cyclicnum.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\programme\Energycalcu.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpOpen.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilCutting.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\programme\MixedOilNum.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\programme\PumpSet.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\CardPages\shouye.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\EditFile.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\FileShow.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\MainWindow.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\OpenFile.baml
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\管道能耗.g.resources
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\管道能耗.Properties.Resources.resources
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.GenerateResource.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CoreCompileInputs.cache
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\管道能耗.csproj.CopyComplete
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\管道能耗.exe
+C:\Users\简单DI年华\Desktop\管道能耗项目\管道能耗\管道能耗\obj\Debug\管道能耗.pdb

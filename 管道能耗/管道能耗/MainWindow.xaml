@@ -1,0 +1,133 @@
+﻿<Window x:Class="管道能耗.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:管道能耗"
+        mc:Ignorable="d"
+        Title="管道能耗分析系统" Height="750" Width="1300" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <DockPanel>
+            <Menu DockPanel.Dock="Top" Name="top_menu" Height="25" VerticalAlignment="Top" Background="#FFF0F0F0">
+                <MenuItem Background="#FFF0F0F0" Header="项目(F)" Name="topmenu_file" FontSize="14">
+                    <MenuItem Header="新建" Name="topmenu_add" Click="AddFile_Click" >
+                        <MenuItem.Icon>
+                            <Image Source="IconImages/add.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <MenuItem Header="打开" Name="topmenu_open" Click="Open_Click">
+                        <MenuItem.Icon>
+                            <Image Source="IconImages/open.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <!--<MenuItem Header="保存" Name="topmenu_save">
+                        <MenuItem.Icon>
+                            <Image Source="IconImages/save.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>-->
+                    <MenuItem Header="导出" Name="topmenu_osave" Click="Osave_Click">
+                        <MenuItem.Icon>
+                            <Image Source="IconImages/osave.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                    <Separator/>
+                    <MenuItem Header="退出" Name="topmenu_exit" Click="Exit_Click">
+                        <MenuItem.Icon>
+                            <Image Source="IconImages/exit.png"></Image>
+                        </MenuItem.Icon>
+                    </MenuItem>
+                </MenuItem>
+                <MenuItem Background="#FFF0F0F0" Header="编辑(E)" Name="topmenu_change" FontSize="14">
+                    <MenuItem Header="编辑" Name="topmenu_edit" Click="Edit_Click"/>
+                </MenuItem>
+                <MenuItem Background="#FFF0F0F0" Header="数据管理(D)" Name="topmenu_data" FontSize="14">
+                    <MenuItem Header="管道基础参数" Name="topmenu_basedata" Click="Menuitem_Selected"/>
+                    <MenuItem Header="油品物性参数" Name="topmenu_physicaldata" Click="Menuitem_Selected" />
+                    <MenuItem Header="土壤环境温度" Name="topmenu_soildata" Click="Menuitem_Selected"/>
+                    <MenuItem Header="泵站参数" Name="topmenu_pumpdata" Click="Menuitem_Selected" />
+                    <MenuItem Header="其他参数" Name="topmenu_other" Click="Menuitem_Selected" />
+                </MenuItem>
+                <MenuItem Background="#FFF0F0F0" Header="计算分析(C)" Name="topmenu_analyze" FontSize="14">
+                    <MenuItem Header="水力特性分析" Name="topmenu_wateranalyze" Click="Menuitem_Selected"/>
+                    <MenuItem Header="管道工作特性" Name="topmenu_wipeanalyze" Click="Menuitem_Selected"/>
+                </MenuItem>
+                <MenuItem Background="#FFF0F0F0" Header="运行方案优化(M)" Name="topmenu_optimize" FontSize="14">
+                    <MenuItem Header="最优循环次数" Name="topmenu_cyclicnum" Click="Menuitem_Selected"/>
+                    <MenuItem Header="混油量" Name="topmenu_pumpproject" Click="Menuitem_Selected"/>
+                    <MenuItem Header="运行能耗计算" Name="topmenu_energycalcu" Click="Menuitem_Selected" />
+                    <!--<MenuItem Header="混油切割方案" Name="topmenu_cut" Click="Menuitem_Selected" />-->
+                    <MenuItem Header="泵站布置方案" Name="topmenu_pum" Click="Menuitem_Selected" />
+                    <MenuItem Header="首站开泵方案" Name="topmenu_fop" Click="Menuitem_Selected" />
+                </MenuItem>
+                <MenuItem Background="#FFF0F0F0" Header="帮助(K)" Name="topmenu_help" FontSize="14" >
+                    <MenuItem Header="帮助文档" Name="topmenu_helpfile" Click="treeview_helpfile_Selected"/>
+                    <MenuItem Header="关于我们" Name="topmenu_aboutour" Click="treeview_aboutour_Selected"/>
+                </MenuItem>
+            </Menu>
+            <ToolBar DockPanel.Dock="Top" Height="30" Background="#FFF0F0F0">
+                <Button Name="toolbar_add" Click="AddFile_Click">
+                    <Button.Content>
+                        <Image Source="IconImages/add.png" Width="20" Height="20" ToolTip="新建"/>
+                    </Button.Content>
+                </Button>
+                <Button Name="toolbar_open" Click="Open_Click">
+                    <Button.Content>
+                        <Image Source="IconImages/open.png" Width="20" Height="20" ToolTip="打开"/>
+                    </Button.Content>
+                </Button>
+               <!-- <Button Name="toolbar_save">
+                    <Button.Content>
+                        <Image Source="IconImages/save.png" Width="20" Height="20" ToolTip="保存"/>
+                    </Button.Content>
+                </Button>-->
+                <Button Name="toolbar_osave" Click="Osave_Click">
+                    <Button.Content>
+                        <Image Source="IconImages/osave.png" Width="20" Height="20" ToolTip="导出"/>
+                    </Button.Content>
+                </Button>
+                <Button Name="toolbar_help" Click="treeview_helpfile_Selected">
+                    <Button.Content>
+                        <Image Source="IconImages/help.png" Width="20" Height="20" ToolTip="帮助"/>
+                    </Button.Content>
+                </Button>
+            </ToolBar>
+            <TreeView DockPanel.Dock="Left" Width="150" Background="#FFF0F0F0" BorderBrush="{x:Null}" HorizontalAlignment="Left">
+                <TreeViewItem Header="开始" Name="treeview_start" FontSize="14" >
+                    <TreeViewItem Header="新建" Name="treeview_add" Selected="AddFile_Click"/>
+                    <TreeViewItem Header="打开" Name="treeview_open" Selected="Open_Click"/>
+                    <TreeViewItem Header="导出" Name="treeview_out" Selected="Osave_Click"/>
+                </TreeViewItem>
+                <TreeViewItem Header="编辑" Name="treeview_Edit" FontSize="14">
+                    <TreeViewItem Header="编辑" Name="treeview_edit" Selected="Edit_Click"/>
+                </TreeViewItem>
+                <TreeViewItem Header="数据管理" Name="treeview_data" FontSize="14">
+                    <TreeViewItem Header="管道基础参数" Name="treeview_basedata" Selected="Treeview_Selected"/>
+                    <TreeViewItem Header="油品物性参数" Name="treeview_physicaldata" Selected="Treeview_Selected"/>
+                    <TreeViewItem Header="土壤环境参数" Name="treeview_soildata" Selected="Treeview_Selected"/>
+                    <TreeViewItem Header="泵站参数" Name="treeview_pumpdata" Selected="Treeview_Selected"/>
+                    <TreeViewItem Header="其他参数" Name="treeview_other" Selected="Treeview_Selected"/>
+                </TreeViewItem>
+                <TreeViewItem Header="计算分析" Name="treeview_ananlyze" FontSize="14">
+                    <TreeViewItem Header="水力特性分析" Name="treeview_wateranalyze" Selected="Treeview_Selected"/>
+                    <TreeViewItem Header="管道工作特性" Name="treeview_wipeanalyze" Selected="Treeview_Selected"/>
+                </TreeViewItem>
+                <TreeViewItem Header="运行方案优化" Name="treeview_optimize" FontSize="14">
+                    <TreeViewItem Header="最优循环次数" Name="treeview_cyclicnum" Selected="Treeview_Selected"/>
+                    <TreeViewItem Header="混油量" Name="treeview_pumpproject" Selected="Treeview_Selected"/>
+                    <TreeViewItem Header="运行能耗计算" Name="treeview_energycalcu" Selected="Treeview_Selected"/>
+                    <!--<TreeViewItem Header="混油切割方案" Name="treeview_cut" Selected="Treeview_Selected"/>-->
+                    <TreeViewItem Header="泵站布置方案" Name="treeview_pum" Selected="Treeview_Selected"/>
+                    <TreeViewItem Header="首站开泵方案" Name="treeview_fop" Selected="Treeview_Selected"/>
+                </TreeViewItem>
+                <TreeViewItem Header="帮助" Name="treeview_help" FontSize="14">
+                    <TreeViewItem Header="帮助文档" Name="treeview_helpfile" Selected="treeview_helpfile_Selected" />
+                    <TreeViewItem Header="关于我们" Name="treeview_aboutour" Selected="treeview_aboutour_Selected" />
+                </TreeViewItem>
+            </TreeView>
+            <Grid Name="right_grid">
+                <!--<Image Source="Images/background.png"></Image>-->
+                <Frame x:Name="frame" Source="CardPages/shouye.xaml" NavigationUIVisibility="Hidden" Grid.Row="1"></Frame>
+            </Grid>
+        </DockPanel>
+    </Grid>
+</Window>
